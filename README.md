@@ -89,7 +89,7 @@ npm run dev
 
 ```
 
-Visit: http://localhost:
+Visit: http://localhost:5000
 
 ---
 
