@@ -1,0 +1,20 @@
+# Node modules
+**/node_modules
+
+# IDE files
+.idea/
+
+# Logs
+**/logs
+*.log
+npm-debug.log*
+
+# Build output (optional if using Vite/React)
+**/dist
+**/build
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+
